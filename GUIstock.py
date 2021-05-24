@@ -1,3 +1,6 @@
+# pip install requests
+# pip install beautifulsoup4
+
 from tkinter import *
 from tkinter import ttk, messagebox
 import requests
